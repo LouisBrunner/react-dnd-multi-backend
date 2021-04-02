@@ -1,0 +1,7 @@
+{
+  "extends": "./babel.config.json",
+  "ignore": [
+    "**/__tests__/*",
+    "**/__mocks__/*"
+  ]
+}

@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+
+# Webpack
+/webpack
+
+# Output
+/examples
+
+# npm
+node_modules
+npm-debug.log
+
+# Config
+.babel.config.json
+.eslint*
+.jest.config.js
+.github
+lerna.json
+
+# Code coverage
+coverage
